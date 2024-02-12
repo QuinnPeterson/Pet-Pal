@@ -73,15 +73,22 @@ $npm start
 
 ## Register, Sign In and Dark Mode
 
+https://github.com/QuinnPeterson/Pet-Pal/assets/63170635/1d2feb82-5149-4604-a7c0-3f8bd5e567b2
+
+
 
 
 
 ## Create Post and Like Posts
 
+https://github.com/QuinnPeterson/Pet-Pal/assets/63170635/978b23ce-98b4-444f-be9c-215a4cf643ce
+
 
 
 
 ## User Profiles and Comments
+
+https://github.com/QuinnPeterson/Pet-Pal/assets/63170635/63253b69-b3fd-43c5-a475-af5269339895
 
 
 
@@ -90,24 +97,3 @@ $npm start
 
 > GitHub [@QuinnPeterson](https://github.com/QuinnPeterson) &nbsp;&middot;&nbsp;
 > LinkedIn [@QuinnPeterson](https://www.linkedin.com/in/quinn-peterson-software-engineer/)
-
-
-#Project Structure
-The .NET server  is organized into the following folders:
-
-#_QUINN
-Contains the requests and responses to the server.
-
-#Controllers
-Define the end points/routes for the API, controller action methods are the entry points into the API for client applications via HTTP requests.
-
-#Models
-Represent request and response models for controller methods, request models define the parameters for incoming requests, and response models define the returned data.
-
-#Services
-Contains business logic, validation, and database access code.
-
-#Properties
-Contains the launchSettings.json file that sets the environment `(ASPNETCORE_ENVIRONMENT)` to Development by default when running the API on your local machine.
----
-
