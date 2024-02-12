@@ -1,7 +1,7 @@
 <h1 align="center">
 Pet Pal
 
-<img alt="Capture.PNG" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/real%20estate/Capture.PNG?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="pet-pal.png" src="https://github.com/QuinnPeterson/QuinnPeterson/blob/main/projects/Pet-Pal/pet-pal.png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 </h1>
 
